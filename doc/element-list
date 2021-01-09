@@ -1,0 +1,10 @@
+cn.wlgl.Companywindows
+cn.wlgl.Courierwindows
+cn.wlgl.dao
+cn.wlgl.dao.impl
+cn.wlgl.dbc
+cn.wlgl.factory
+cn.wlgl.Personwindows
+cn.wlgl.service
+cn.wlgl.service.impl
+cn.wlgl.vo
